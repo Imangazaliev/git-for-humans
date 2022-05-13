@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+    <div class="content"></div>
+    <script>
+        const contentEl = '.content';
+
+        fetch('first-commit-1.txt').then(response => {
+            contentEl.innerHTML = response;
+        });
+    </script>
+</body>
+</html>
