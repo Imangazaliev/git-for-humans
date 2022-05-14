@@ -11,4 +11,4 @@ git config --global user.name "Muhammad Imangazaliev"
 git config --global user.email "imangazaliev.md@gmail.com"
 ```
 
-**[← Установка](install-git.md)** | **[Создание репозитория →](create-repository.md)**
+**[← Установка Git](install-git.md)** | **[Создание репозитория →](create-repository.md)**
