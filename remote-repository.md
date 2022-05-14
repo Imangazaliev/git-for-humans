@@ -86,3 +86,5 @@ To github.com:Imangazaliev/todo-list-example.git
 Откройте страницу вашего репозитория и вы увидите ваши файлы. Нажмите на количество коммитов в правом верхнем углу, чтобы просмотреть историю коммитов:
 
 ![](images/github-repository-with-commits.png)
+
+**[← Ветки](branches.md)**
