@@ -42,4 +42,4 @@ sudo apt install git
 
 Команды для других дистрибутивов можно посмотреть [здесь](https://git-scm.com/download/linux).
 
-**[Следующий урок: Настройка Git](configure-git.md)**
+**[← Что такое система контроля версий](configure-git.md)** | **[Настройка Git →](configure-git.md)**
