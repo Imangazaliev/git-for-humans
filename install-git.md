@@ -42,3 +42,4 @@ sudo apt install git
 
 Команды для других дистрибутивов можно посмотреть [здесь](https://git-scm.com/download/linux).
 
+**[Настройка Git](configure-git.md)**
